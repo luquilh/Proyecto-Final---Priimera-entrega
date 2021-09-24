@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Escuadra",
+    "precio": 123.45,
+    "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1,
+    "timestamp": "1632429722616",
+    "descripcion": "Escuadra de aluminio de 50 cm de largo",
+    "codigo": "ESC1045",
+    "stock": "47"
+  },
+  {
+    "nombre": "Calculadora",
+    "precio": 234.56,
+    "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 2,
+    "timestamp": "1632429766193",
+    "descripcion": "Casio SV-PAM - Calculadora cientifica",
+    "codigo": "CALC678",
+    "stock": "12"
+  },
+  {
+    "nombre": "Globo Terraqueo",
+    "precio": 500,
+    "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 3,
+    "timestamp": "1632430112555",
+    "descripcion": "Globo terraqueo - 40 cm de diametro",
+    "codigo": "GLOB234",
+    "stock": "99"
+  }
+]
